@@ -1,2 +1,3 @@
 # MyWifeAsunaTyperoPicGoImageBed
-图床嘛图床
+
+typero→picgo→github→jsdelivr
